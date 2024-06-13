@@ -1,3 +1,4 @@
+# fibonacci function that returns the first n elements of the Fibonacci sequence
 def fibonacci(n):
     if n <= 0:
         return "Input should be positive integer"
